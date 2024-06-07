@@ -31,7 +31,7 @@ app.use(createBootstrap({components: true, directives: true})) // Change this li
 app.component('font-awesome-icon', FontAwesomeIcon)
 app.use(VueGoogleMaps, {
     load: {
-      key: 'AIzaSyB98h_-EG9eFZxjlVeRJ2cD1yMH-v1KGqI',
+      key: '',
     },
 });
 
