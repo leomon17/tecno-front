@@ -1,0 +1,34 @@
+{
+  "name": "tecno-control-front",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.21.0",
+    "datatables.net-fixedcolumns": "^5.0.0",
+    "datatables.net-responsive": "^3.0.2",
+    "datatables.net-select": "^2.0.3",
+    "datatables.net-vue3": "^3.0.1",
+    "moment": "^2.30.1",
+    "pinia": "^2.1.7",
+    "sweetalert2": "^11.11.1",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue-sweetalert2": "^5.0.11"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "unplugin-vue-components": "^0.27.0",
+    "vite": "^5.2.8"
+  }
+}
